@@ -1,6 +1,0 @@
-#:D:\Git\Repos\mycoretest\src\TestTarget\TestTarget.xproj
-D:\Git\Repos\mycoretest\src\TestTarget\TestTarget.xproj|D:\Git\Repos\mycoretest\src\Interfaces\Interfaces.xproj
-#:D:\Git\Repos\mycoretest\src\ConsoleEntrance\ConsoleEntrance.xproj
-D:\Git\Repos\mycoretest\src\ConsoleEntrance\ConsoleEntrance.xproj|D:\Git\Repos\mycoretest\src\Interfaces\Interfaces.xproj
-D:\Git\Repos\mycoretest\src\ConsoleEntrance\ConsoleEntrance.xproj|D:\Git\Repos\mycoretest\src\TestTarget\TestTarget.xproj
-D:\Git\Repos\mycoretest\src\TestTarget\TestTarget.xproj|D:\Git\Repos\mycoretest\src\Interfaces\Interfaces.xproj
