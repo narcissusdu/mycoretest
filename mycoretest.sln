@@ -15,6 +15,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ConsoleEntrance", "src\Cons
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Interfaces", "src\Interfaces\Interfaces.xproj", "{AA078325-A7D7-49C6-80BC-DB9A58A829BB}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestTarget", "src\TestTarget\TestTarget.xproj", "{77269FBE-089F-4255-91FE-3CC8F9E6E4CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{AA078325-A7D7-49C6-80BC-DB9A58A829BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA078325-A7D7-49C6-80BC-DB9A58A829BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA078325-A7D7-49C6-80BC-DB9A58A829BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77269FBE-089F-4255-91FE-3CC8F9E6E4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77269FBE-089F-4255-91FE-3CC8F9E6E4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77269FBE-089F-4255-91FE-3CC8F9E6E4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77269FBE-089F-4255-91FE-3CC8F9E6E4CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +42,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D30CB432-9578-4185-99ED-6D0B99256C45} = {6AC268F9-7FF5-433F-8701-1CFCD05436D3}
 		{AA078325-A7D7-49C6-80BC-DB9A58A829BB} = {6AC268F9-7FF5-433F-8701-1CFCD05436D3}
+		{77269FBE-089F-4255-91FE-3CC8F9E6E4CE} = {6AC268F9-7FF5-433F-8701-1CFCD05436D3}
 	EndGlobalSection
 EndGlobal

@@ -82,5 +82,8 @@
 -r:"C:\Users\wdu\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\wdu\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\wdu\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
+-r:"C:\Users\wdu\.nuget\packages\System.Xml.XmlSerializer\4.0.11\ref\netstandard1.3\System.Xml.XmlSerializer.dll"
+-r:"D:\Git\Repos\mycoretest\src\Interfaces\bin\Debug\netstandard1.6\Interfaces.dll"
+-r:"D:\Git\Repos\mycoretest\src\TestTarget\bin\Debug\netstandard1.6\TestTarget.dll"
 "D:\Git\Repos\mycoretest\src\ConsoleEntrance\Program.cs"
 "D:\Git\Repos\mycoretest\src\ConsoleEntrance\Properties\AssemblyInfo.cs"

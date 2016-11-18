@@ -7,7 +7,10 @@ namespace TestInterfaces
 {
     public abstract class AbstractTestClass : ITestable
     {
-        public abstract string GetName();
+        public virtual string GetName()
+        {
+            return this.GetType().Name;
+        }
 
         public abstract string Test();
 
