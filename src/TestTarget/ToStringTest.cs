@@ -12,7 +12,7 @@ namespace TestTarget
     {
         public override string Test()
         {
-	    return DateTime.Now.ToString("YYYY-mm-DD");
+	    return DateTime.Now.ToString("yyyy-MM-dd");
 	}
     }
 }
