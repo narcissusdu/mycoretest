@@ -16,7 +16,7 @@ namespace ConsoleEntrance
             string cmd = string.Empty;
             int testNo = 0;
             List<AbstractTestClass> testList = null;
-            while (!string.Equals(cmd, "exit"))
+            while (!string.Equals(cmd, "exit")&&!string.Equals(cmd,"quit"))
             {
                 testList = GetTestList().ToList();
                 DisplayTestList(testList);

@@ -8,11 +8,11 @@ using TestInterfaces;
 
 namespace TestTarget
 {
-    public class ToStringTest : AbstractTestClass
+    public class DateTimeToStringTest : AbstractTestClass
     {
         public override string Test()
         {
-	    return DateTime.Now.ToString("yyyy-MM-dd");
+	    return DateTime.Now.ToString("yyyy-MM-ddThh:mm:ss");
 	}
     }
 }
